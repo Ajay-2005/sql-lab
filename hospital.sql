@@ -19,3 +19,4 @@ delete from hospital where doctor_id='D005';
 select * from hospital;
 
 
+
